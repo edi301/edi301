@@ -1,7 +1,7 @@
 - 👋 Hi, I’m  Ederson Irdes
 - 👀 I’m interested in desenvolver conhecimentos adquiridos no meu curso de formação
 visando alinhar o crescimento profissional.
-- 🌱 I’m currently learning Javascrip
+- 🌱 I’m currently learning HTML e Javascrip
 - 📫 How to reach me  edersonirdes301@gmail.com
 
 <!---
